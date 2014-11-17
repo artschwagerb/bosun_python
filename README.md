@@ -4,7 +4,7 @@ bosun_python
 Implementation of the Bosun API in Python
 
 
-###How to Use
+###Example Code
 ```
 from bosun import bosun_client
 bosun = bosun_client()
